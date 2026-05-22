@@ -57,6 +57,10 @@ int idade = 39;
 double altura = 1.78;
 boolean aluno = true;
 
+System.out.printl(nome);
+System.out.printl(idade);
+System.out.printl(altura);
+System.out.printl(aluno);
 
 
 
