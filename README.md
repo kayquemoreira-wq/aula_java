@@ -52,15 +52,15 @@ Para executar esse programa, há duas alternativas:
 Variáveis:
 Variáveis guardam informações na memória.
 Exemplo:
-String nome: "Wilson";
-int idade = 39;
-double altura = 1.78;
-boolean aluno = true;
+- String nome: "Wilson";
+- int idade = 39;
+- double altura = 1.78;
+- boolean aluno = true;
 
-System.out.printl(nome);
-System.out.printl(idade);
-System.out.printl(altura);
-System.out.printl(aluno);
+- System.out.printl(nome);
+- System.out.printl(idade);
+- System.out.printl(altura);
+- System.out.printl(aluno);
 
 
 
